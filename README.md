@@ -7,7 +7,7 @@ I already know:
 - A fair amount of Python | CSP/GD classes | >1 Year
 
 I’m currently learning:
-- Game devlopment and C++ with the Unity engine | CSP/GD
+- Game devlopment and C# with the Unity engine | CSP/GD
 - (More) Python | Self teaching
 
 Interseted in learning:
