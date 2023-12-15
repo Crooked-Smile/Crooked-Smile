@@ -1,5 +1,5 @@
 # About me:
-Hi, I’m, Crooked but I also go by Monika. I am currently a 15 y/o sophomore. I have a high intrest in learing more about software engineering.
+Hi, I’m, Crooked. I have a high intrest in learing more about software engineering.
 
 # My Skills: 
 I already know:
