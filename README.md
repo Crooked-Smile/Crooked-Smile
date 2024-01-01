@@ -12,5 +12,8 @@ I already know:
 Interseted in learning:
 - C/C++ for Wii Homebrew Devlopment
 
+# What I'm doing rn
+[![Discord Presence](https://lanyard.cnrad.dev/api/771962582876553227?animated=true&showDisplayName=true)](https://discord.com/users/771962582876553227)
+
 ### Legend:
 > CSP/GD - My Computer Science Princaples / Game Devlopment class
